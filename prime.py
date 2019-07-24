@@ -14,3 +14,5 @@ else:
    print(num,"is not a prime number")
    
    print("hello I am test code")
+   
+   print ("This is cool!")
